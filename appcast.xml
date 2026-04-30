@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>GAEMI POS Updates</title>
-        <link>https://github.com/robotis-yongdokim/POS_INSTALLER/edit/main/appcast.xml</link>
+        <link>https://github.com/robotis-yongdokim/POS_INSTALLER-TEST/edit/main/appcast.xml</link>
         <description>GAEMI POS 자동 업데이트 채널</description>
         <language>ko</language>
 
         <item>
-            <title>Version 1.0.55</title>
+            <title>Version 1.0.56</title>
             <description>
                 <![CDATA[
                     ● 최초 릴리스
@@ -16,7 +16,7 @@
                 ]]>
             </description>
             <pubDate>Tue, 14 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER/releases/download/1.0.56/GAEMI-Setup-1.0.56-Patch.exe"
+            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER-TEST/releases/download/1.0.56/GAEMI-Setup-1.0.56-Patch.exe"
                        sparkle:version="1.0.56"
                        sparkle:os="windows"
                        length="4991575"
