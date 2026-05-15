@@ -5,6 +5,7 @@
         <link>https://github.com/robotis-yongdokim/POS_INSTALLER-TEST/edit/main/appcast.xml</link>
         <description>GAEMI POS 자동 업데이트 채널</description>
         <language>ko</language>
+        <minimumAppVersion>0.0.1</minimumAppVersion>
 
         <item>
             <title>Version 1.0.56</title>
