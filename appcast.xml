@@ -5,10 +5,10 @@
         <link>https://github.com/robotis-yongdokim/POS_INSTALLER-TEST/edit/main/appcast.xml</link>
         <description>GAEMI POS 자동 업데이트 채널</description>
         <language>ko</language>
-        <minimumAppVersion>1.0.68</minimumAppVersion>
+        <minimumAppVersion>1.1.0</minimumAppVersion>
 
         <item>
-            <title>Version 1.0.69</title>
+            <title>Version 1.1.0</title>
             <description>
                 <![CDATA[
                     ● 최초 릴리스
@@ -17,10 +17,10 @@
                 ]]>
             </description>
             <pubDate>Tue, 14 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER-TEST/releases/download/1.0.69/GAEMI-Setup-1.0.69-PBE-Patch.exe"
-                       sparkle:version="1.0.69"
+            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER-TEST/releases/download/1.1.0/GAEMI-Setup-1.1.0-Patch.exe"
+                       sparkle:version="1.1.0"
                        sparkle:os="windows"
-                       length="5147367"
+                       length="5027248"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
